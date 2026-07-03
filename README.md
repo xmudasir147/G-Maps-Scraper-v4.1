@@ -2,9 +2,9 @@
 G-Maps (Google Maps) Scraper v4.1 — Developed a most powerful tool g-maps data scraper v4.1 to Extract leads, emails, phone numbers &amp; more from google maps places. This bot can easily scrape thousands of leads within a few hours. It's very useful for business outreach, lead generation, cold emailing, and market research.
 
 # Demo Video:
-https://youtu.be/1X6Oj2SKEtw
+https://youtu.be/dQSpcNvOeMA
 # Download Link:
-https://drive.google.com/file/d/1pB3BVmfU-cf29ICQYZw2JR-KTfC4__vK/view?usp=drive_link
+https://drive.google.com/file/d/1FF1eHBK5tsaVGCUIYrpx5sHlVfJpW99K/view?usp=drive_link
 
 # Key features:
 - Get searching keywords and locations list from the user
